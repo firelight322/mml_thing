@@ -1,7 +1,7 @@
 # mml_thing
 A simple tool to automate repetitive and tedious 3mle tasks.
 
-download latest (v1.5.2)
+[download latest (v1.5.2)](https://github.com/firelight322/mml_thing/releases/latest)
 
 ### This is an old tool I wrote a long time ago for Maple Story 2 music. I am uploading it here for posterity and backup. It is not being developed anymore.
 
