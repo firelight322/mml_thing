@@ -5,7 +5,7 @@ A simple tool to automate repetitive and tedious 3mle tasks.
 
 ### This is an old tool I wrote a long time ago for Maple Story 2. I am uploading it here for posterity and backup. It is not being developed anymore.
 
-## Backup Documentation
+## Original Documentation
 This is a command prompt app. You cannot open it by double-clicking on the exe. You must launch it from your command prompt.
 
 ## Features
