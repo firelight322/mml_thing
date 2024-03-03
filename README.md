@@ -3,7 +3,7 @@ A simple tool to automate repetitive and tedious 3mle tasks.
 
 [download latest (v1.5.2)](https://github.com/firelight322/mml_thing/releases/latest)
 
-### This is an old tool I wrote a long time ago for Maple Story 2 music. I am uploading it here for posterity and backup. It is not being developed anymore.
+### This is an old tool I wrote a long time ago for Maple Story 2. I am uploading it here for posterity and backup. It is not being developed anymore.
 
 ## Backup Documentation
 This is a command prompt app. You cannot open it by double-clicking on the exe. You must launch it from your command prompt.
